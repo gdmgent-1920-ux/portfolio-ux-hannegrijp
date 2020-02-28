@@ -13,7 +13,7 @@ const data = {
         "firstName": "Hanne",      // fill in with your own first name
         "lastName": "Grijp",    // fill in with your own last name
         "class": "1AVDa",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
-        "studentnumber": "8675309"  // fill in with your student number
+        "studentnumber": "110219"  // fill in with your student number
     },
 
     /**
